@@ -220,7 +220,7 @@ DesafioUnoPOO104G01L/
 
 2\. Abre cada proyecto en IntelliJ IDEA.
 
-3\. Ejecuta `Main.java` dentro del paquete correspondiente (`poo` o `calculadora`).
+3\. Ejecuta `Main_nombre_main .java` dentro del paquete correspondiente (`Ejercicio1` o `Ejercicio2`).
 
 4\. Interactúa con el menú o la interfaz gráfica según el proyecto.
 
